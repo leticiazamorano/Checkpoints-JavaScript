@@ -1,0 +1,30 @@
+body{
+background-color: burlywood;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+main{
+background-color: rgb(235, 230, 230);
+border-radius: 20%;
+min-height: 500px;
+width: 440px;
+border-color: black;
+text-align: center;
+margin-top: 100px;
+
+}
+
+.entrada{
+margin-bottom: 10px;
+
+
+}
+.botoes{
+display: flex;
+gap: 10px;
+margin-bottom: 10px;
+justify-content: center;
+}
